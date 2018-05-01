@@ -1,1 +1,2 @@
 # Emoji-Dictionary
+Sample
